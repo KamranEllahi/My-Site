@@ -127,7 +127,7 @@
   position: relative;
   display: flex;
   align-items: flex-end;
-  background-image: url("../images/cover.jpg");
+  background-image: url("../cover.jpg");
   background-position: center;
   background-size: cover; }
   .fh5co-top-banner::after {
@@ -473,7 +473,7 @@
   position: relative;
   margin-bottom: 122px;
   padding: 100px 0;
-  background-image: url("../images/book-bckg.jpg");
+  background-image: url("../book-bckg.jpg");
   background-size: cover;
   background-position: center; }
   .fh5co-counter::after {
@@ -628,7 +628,7 @@
   position: relative;
   padding: 135px 0 172px;
   text-align: center;
-  background-image: url("../images/aboutme.jpg");
+  background-image: url("../aboutme.jpg");
   background-position: center;
   background-size: cover; }
   .fh5co-quotes::after {
@@ -683,7 +683,7 @@
 .fh5co-social {
   position: relative;
   padding: 63px 0;
-  background-image: url("../images/social.jpg");
+  background-image: url("../social.jpg");
   background-size: cover;
   background-position: center; }
   .fh5co-social::after {
